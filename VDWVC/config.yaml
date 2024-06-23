@@ -1,0 +1,20 @@
+train: D:/College/vdvw/juvdv2-vdvwc-main/train.txt
+val: D:/College/vdvw/juvdv2-vdvwc-main/val.txt
+
+nc: 14
+
+names:
+  0: car
+  1: bike
+  2: auto
+  3: rickshaw
+  4: cycle
+  5: bus
+  6: minitruck
+  7: truck
+  8: van
+  9: taxi
+  10: motorvan
+  11: toto
+  12: train
+  13: boat
