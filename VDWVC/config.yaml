@@ -1,5 +1,5 @@
-train: D:/College/vdvw/juvdv2-vdvwc-main/train.txt
-val: D:/College/vdvw/juvdv2-vdvwc-main/val.txt
+train: /content/drive/MyDrive/vdwvc/datafile/images/train
+val: /content/drive/MyDrive/vdwvc/datafile/images/val
 
 nc: 14
 
