@@ -1,4 +1,4 @@
-### Report: Methodology and Novelty of the Detection Algorithm for ICDEC 2024 Challenge
+### Report: Methodology and Novelty of the Detection Algorithm
 
 #### Introduction
 
